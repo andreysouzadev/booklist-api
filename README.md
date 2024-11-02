@@ -34,7 +34,7 @@ Abaixo estão os principais endpoints da API, juntamente com exemplos de como ut
 - **Python**: Linguagem principal de programação do projeto.
 - **Django**: Framework web robusto para desenvolvimento do backend.
 - **Django Ninja**: Framework ágil para criação de APIs rápidas e eficientes.
-- **Banco de Dados**: SQLite configurado por padrão (pode ser substituído por outro banco de dados, se desejado).
+- **Banco de Dados**: SQLite
 
 
 ## Endpoints

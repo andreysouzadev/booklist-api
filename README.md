@@ -29,12 +29,11 @@ Quando solicitada, a API realiza uma seleção aleatória entre os livros cadast
 Documentação dos Endpoints
 Abaixo estão os principais endpoints da API, juntamente com exemplos de como utilizá-los. Consulte a documentação completa e interativa gerada automaticamente pelo Django Ninja em /api/docs para detalhes sobre cada endpoint.
 
-##Tecnologias Utilizadas
-
+Tecnologias Utilizadas
 Python: Linguagem de programação principal
 Django: Framework web para backend
 Django Ninja: Framework para criação de APIs rápidas e eficientes
-Banco de Dados: SQLite
+Banco de Dados: SQLite (ou configure para outro banco, se necessário)
 
 ## Endpoints
 
